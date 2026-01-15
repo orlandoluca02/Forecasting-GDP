@@ -5,7 +5,7 @@ This repository features a professional MATLAB framework designed for macroecono
 
 ## Project Objective
 
-The goal of this project is to perform h-step ahead forecasting of GDP (Gross Domestic Product). It evaluates whether complex dynamic factor models can outperform simpler univariate and multivariate econometric benchmarks in a simulated real-time environment.
+The goal of this project is to perform h-step ahead forecasting of GDP (Gross Domestic Product). It evaluates whether complex dynamic factor models can outperform simpler univariate and multivariate econometric benchmarks.
 
 ### Models and Comparison
 The framework performs a rigorous comparison between:
@@ -28,8 +28,8 @@ The framework performs a rigorous comparison between:
 This project implements methodologies from the following seminal works:
 
 ### Generalized Dynamic Factor Model (GDFM)
-* Forni, M., Hallin, M., Lippi, M., & Reichlin, L. (2005). "The Generalized Dynamic Factor Model: One-Sided Estimation and Forecasting." JASA.
-* Forni, M., Hallin, M., Lippi, M., & Reichlin, L. (2000). "The Generalized Dynamic Factor Model: Identification and Estimation." The Review of Economics and Statistics.
+* Forni, M., Hallin, M., Lippi, M., & Reichlin, L. (2005). "The Generalized Dynamic Factor Model: One-Sided Estimation and Forecasting." 
+* Forni, M., Hallin, M., Lippi, M., & Reichlin, L. (2000). "The Generalized Dynamic Factor Model: Identification and Estimation." 
 
 ### ABC Factor Selection Criterion
 * Alessi, L., Barigozzi, M., & Capasso, M. (2010). "Improved Performance of the Hellin and Liška Test for Determining the Number of Factors." Journal of Applied Econometrics.
