@@ -3,7 +3,7 @@
 
 This repository features a professional MATLAB framework designed for macroeconomic forecasting. The project specifically focuses on predicting GDP growth by leveraging high-dimensional datasets through factor models.
 
-## Project Objective
+## Objective
 
 The goal of this project is to perform h-step ahead forecasting of GDP (Gross Domestic Product). It evaluates whether complex dynamic factor models can outperform simpler univariate and multivariate econometric benchmarks.
 
@@ -15,7 +15,7 @@ The framework performs a rigorous comparison between:
 * AR(1) (Autoregressive): The standard univariate benchmark for time-series persistence.
 * Random Walk (RW): The naive benchmark (no-change forecast).
 
-## Project Structure
+## Structure
 
 * data/: Contains the dataset processed_data copia.xlsx.
 * script/: Contains the main forecasting script main_gdp.m.
